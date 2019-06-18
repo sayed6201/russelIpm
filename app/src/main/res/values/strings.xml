@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name">Russell IPM</string>
+
+    <string name="biotrine_url">
+        https://drive.google.com/open?id=1h3AAXWv5ww7pQXNtvU-1_SyVVsjsK_bK
+    </string>
+    <string name="biotrine_show">
+        Biotrine is a larvicide, killing the young larva and kills nematodes.
+    </string>
+    <string name="biotrine_des">
+        Biotrine is a larvicide, killing the young larva (caterpillars) and kills nematodes.
+        It also assists the plant in preparing against further attacks from the newlyhatched larvae.
+        \n
+        \n
+        Target Pests include:
+        Tomato leafminer, aphids, whitefies, fall armyworm, spider mites, thrips, false
+        codling moth, nematodes and diamond back moth.
+    </string>
+
+    <string name="fizimite_url">
+        https://drive.google.com/open?id=1nQrNg0vcNQRKSesk8ioUI6GArCx81E4A
+    </string>
+    <string name="fizimite_show">
+        A VERSATILE, TOXIN-FREE
+        INSECTICIDE / FUNGICIDE FOR ALL CROPS
+    </string>
+    <string name="fizimite_des">
+        INGREDIENTS:\n
+        FIZImite contains a unique blend of safe, physically acting pest and
+        disease control surfactants.
+        \n
+        \n
+        CONTROL:\n
+        FIZImite controls by physical means. It controls a wide range of pests
+        including: whitefy, aphid, spider mite, mealybug, hard and soft scale
+        insects and bay sucker psyllids. CONTROLS POWDERY MILDEW.
+        \n
+        \n
+        CROPS:\n
+        Protected and outdoor edible and ornamental crops.
+        APPLICATION METHOD: Foliar spray weekly or as necessary
+        according to crop and situation. Ensure complete cover of top and
+        bottom surfaces of foliage for best efect.
+        \n
+        \n
+        DILUTION RATE:\n
+        1 ml per litre water.
+    </string>
+
+    <string name="antario_url">
+        https://drive.google.com/open?id=1Yjcb5kxALNIQVJjZL4Ng4zTMudAEXCsv
+    </string>
+    <string name="antario_show">
+        Antario provides protection against early leaf damage caused by caterpillars
+        and other insects
+    </string>
+    <string name="antario_des">
+        Antario provides protection against early leaf damage caused by caterpillars
+        and other insects. It contains two biological insecticides: Bacillus thuringiensis
+        kurstaki and Abamectin. The two biological pesticides act together to kill the
+        insect by releasing endotoxins when the insect feeds.
+    </string>
+
+    <string name="ceranock_url">
+        https://drive.google.com/open?id=11gL41ZrE2w4EFxnbmAj1ycsIUybPrsz-
+    </string>
+    <string name="ceranock_show">
+        Ceranock is specially designed to minimise fruit damage while signifcantly
+        reducing pesticide application.
+    </string>
+    <string name="ceranock_des">
+        Ceranock is specially designed to minimise fruit damage while signifcantly
+        reducing pesticide application. This is a safe, effective and environmentally
+        friendly fruit fy solution. Zero residue in fruit and fresh produce means no more
+        risk to consumers and no adverse effect on benefcial insects or non-target
+        species. Russell IPM’s Ceranock is an innovative, sustainable, practical and
+        residue-free solution for the fruit fy species of Bactrocera, Ceratitis and Dacus.
+    </string>
+
+    <string name="fytomax_url">
+        https://drive.google.com/open?id=1cOJ55ychJ4oJ15-4FmSSo9y-L9u8p7--
+    </string>
+    <string name="fytomax_show">
+        Fytomax PM is a biorational product based on neem seed extract, with an
+        active ingredient of 0.1% Azadirachtin.
+    </string>
+    <string name="fytomax_des">
+        Fytomax PM is a biorational product based on neem seed extract, with an
+        active ingredient of 0.1% Azadirachtin. Fytomax PM has multiple modes of
+        action, but primarily works very well when combined with Biotrine. When
+        used in synergy with Biotrine, it prolongs the effect. When applied in the
+        early stages, Fytomax inhibits fungal diseases and acts as a natural repellent
+        to most insects.
+    </string>
+
+    <string name="recharge_url">https://drive.google.com/open?id=10i-3-tzkO7gE_nz3Qmu0fZp74HNjMFQc</string>
+    <string name="recharge_show">
+        A new concept of sustainable integrated crop management.
+    </string>
+    <string name="recharge_des">
+        Recharge	is	a	powerful	formulation	of	naturally	growing	microorganisms	Trichoderma
+        found	in	healthy	soils.	The	formulation	is	capable	of	empowering	your	plants,
+        enabling	them	to	remain	healthy	with	improved	yield.	It	unleashes	the	power	of	nature
+        and	enable	crops	to	fend	for	themselves	whilst	combatting	the	damaging	effect
+        of	insect	pests	and	fungal	attacks.	Healthy	and	robust	plants	can	rise	to	the	challenge
+        and	offer	a	better	yield
+    </string>
+
+    <string name="zonatrac_url">https://drive.google.com/open?id=1BD-RDOROlEQWVub5cq_W128Lu4A4qkjR</string>
+    <string name="zonatrac_show">
+        Manage male fruit fly and achieve up to 97% fruit protection with no residues on fresh produce
+    </string>
+    <string name="zonatrac_des">
+        Manage male fruit fly and achieve up to 97% fruit protection with no residues on fresh produce
+    </string>
+
+    <string name="yokosan_url">
+        https://drive.google.com/open?id=1ytT34dZU23S3debcoJECopyzZEaeHV2s
+    </string>
+    <string name="Yokosan_show">
+        Yokosan is an organic, liquid, biological fertiliser based on potassium, humate, water extract of worm casting and beneficial microorganisms.
+    </string>
+    <string name="Yokosan_des">
+        Yokosan is an organic, liquid, biological fertiliser
+        based on potassium, humate, water extract of
+        worm casting and beneficial microorganisms. It
+        is a dark-brown liquid with a pH between 9-10. It
+        is enriched with humic acids, iron, manganese,
+        zinc and copper. The product does not contain
+        synthetic additives or genetically modified
+        organisms. It is an ECOCERT organic-certified
+        product.
+    </string>
+
+    <string name="biomax_url">
+        https://drive.google.com/open?id=1ZRu2SaPydVKeuczTfUUCYKizJ2FCvcag
+    </string>
+    <string name="biomax_show">
+        BiomaxM is a powerful biological insecticide which kills insect pests on contact.
+    </string>
+    <string name="biomax_des">
+        BiomaxM is a powerful biological insecticide which kills insect pests on contact. This broad spectrum control
+        agent works to paralyse the pests such as sucker and borer insects including, red spider mite, white fly, aphid,
+        other soft bodied insects, tomato leaf miner and otherboring and sucking insect pests.
+        \n
+        \n
+        Biomax M is highly effective against tea red spider mite. Over 95% red
+        spider mites have been controlled when applied Biomax M.
+    </string>
+
+    <string name="contact">
+        \n
+        Russell IPM is one of the leading manufacturers of insect pheromone-based monitoring and control products. Our core expertise is behavior modifying insect pheromone and natural material-based Bio-pesticides.\n
+        The Russell IPM headquarters and main production facility is based in Deeside in the UK. In addition, there are five marketing subsidiaries in Spain, Morocco, Algeria, Jordan, China, India and Bangladesh. Working closely with distribution partners Russell IPM supplies a range of insect monitoring and control products worldwide.\n
+        \n
+        Tel: 01959538497\n
+        Email: info@russellipmbd.com
+    </string>
+
+</resources>
