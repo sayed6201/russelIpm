@@ -91,6 +91,7 @@ public class InquiryActivity extends Fragment implements View.OnClickListener {
             Intent i = new Intent(Intent.ACTION_SEND);
             i.setType("message/rfc822");
             i.putExtra(Intent.EXTRA_EMAIL  , new String[]{"info@russellipmbd.com"});
+//            i.setClassName("com.google.android.gm", "com.google.android.gm.ComposeActivityGmail");
             i.putExtra(Intent.EXTRA_SUBJECT, ""+"let me know about "+multiAutoCompleteTextView.getText().toString().trim());
             i.putExtra(Intent.EXTRA_TEXT   , queryEt.getText().toString().trim()+"\n\n\n"+"" +
                     "Cell number: "+phoneNumEt.getText().toString().trim());

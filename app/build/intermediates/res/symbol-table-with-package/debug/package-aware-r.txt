@@ -1696,6 +1696,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable domain
 drawable edittext_border
 drawable fizimite
 drawable fytomax
@@ -1737,6 +1738,7 @@ drawable selected_indicator
 drawable smartphone
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable viber
 drawable white_radius
 drawable yokosan
 drawable zonatrac
@@ -1784,6 +1786,7 @@ id blocking
 id bottom
 id btn_proceed
 id buttonPanel
+id call_btn
 id cancel_action
 id center
 id center_horizontal
@@ -1980,6 +1983,7 @@ id useLogo
 id vertical
 id view_offset_helper
 id visible
+id web_btn
 id webview
 id withText
 id wrap
